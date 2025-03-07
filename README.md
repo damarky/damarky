@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am a chemical engineering graduate!
+- 🔭 I am a chemical engineering graduate trying to break into tech!
 
 <!--
 **damarky/damarky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
